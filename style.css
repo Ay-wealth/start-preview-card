@@ -1,0 +1,102 @@
+body{
+   background-color: hsl(233, 67%, 2%); 
+   
+}
+.attribution{
+    display: flex;
+    display: center;
+    justify-content: center;
+    color: white;
+    font-size: 16px;
+
+}
+
+.layer{
+    width:450px;
+	height:310px;
+	display: flex;
+	border-radius: 8px;
+	background-color: hsl(244, 38%, 16%);
+	position: absolute;
+    top: 50%;
+	left: 50%;
+	margin-left: -375px;
+	margin-top: -155px;
+	
+}
+
+.main{
+    margin-left: 30px;
+    margin-right: 40px;
+    margin-top: 30px;
+    color: white;
+    font-weight: bolder;
+    text-align: left;
+    justify-content: left;
+    font-size: 17px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+.main span{
+    color: rgba(219, 107, 219, 0.173);
+   
+
+}
+
+.remark{
+    color: rgb(120, 114, 114);
+    margin-left: 30px;
+    margin-right: 40px;
+    margin-top: 20px;
+    text-align: left;
+    justify-content: left;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 15px;
+    width: 370px;
+
+}
+
+
+
+
+.points{
+    display: flex;
+    color: white;
+    font-family:Arial, Helvetica, sans-serif;
+    margin-left: 30px;
+    margin-right: 40px;
+    margin-top: 20px;
+    text-align: left;
+    justify-content: left;
+    font-weight: bolder;
+    font-size: 16px;
+    word-spacing: 1px;
+    line-height: 0%;
+}
+
+.points p{
+    color:  rgb(120, 114, 114);
+    font-family: cursive;
+    margin-left: 0%;
+    margin-right: 40px;
+    margin-top: 20px;
+    text-align: left;
+    justify-content: left;
+    font-weight: bolder;
+    font-size: 9px;
+    font-weight: lighter;
+}
+    
+
+.image-layer img{
+    width:450px;
+	height:310px;
+    border-radius: 8px;
+    opacity: 0.8;
+    border-bottom-left-radius: 0%;
+    border-top-left-radius: 0%;
+  
+    
+      
+}
+
